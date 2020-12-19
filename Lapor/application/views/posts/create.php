@@ -29,7 +29,7 @@
  			 	</div>
 
  			 	<select name="kategori">
- 			 		<option disabled selected>Pilih Aspek Pelaporan/Komentar :</option>
+ 			 		<option disabled selected>Pilih Kategori Pelaporan/Komentar :</option>
  			 		<option value="Dosen">Dosen</option>
 					<option value="Staff">Staff</option>
 					<option value="Mahasiswa">Mahasiswa</option>
